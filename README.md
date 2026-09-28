@@ -25,18 +25,6 @@
 ###  인프라 & 협업
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<br>
-
-## 📁 Key Repositories
-
-제 깃허브에서 가장 핵심적인 프로젝트 레포지토리들입니다.
-
-| 프로젝트명 | 상세 내용 | Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ 보안 로그 위험도 분류** | **(팀 프로젝트)** 보안 로그 데이터를 분석하여 머신러닝 기반으로 위험도를 예측하고 분류하는 시스템 개발 | `Python`, `scikit-learn` |
-| **🚌 제주 버스 도착 예측** | 제주도 버스 운행 데이터 분석 및 도착 시간 예측 모델링 (학습/연구용) | `Python`, `Pandas` |
-
-<br>
 
 ## 📈 GitHub Stats
 
