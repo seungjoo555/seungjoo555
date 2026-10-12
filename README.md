@@ -3,7 +3,7 @@
 <!-- 헤더 이미지나 타이핑 효과 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3776AB&size=30&width=600&height=50&lines=Hi+there!+I'm+Seungjoo;Backend+%26+AI+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
-**관심이 많은 개발자입니다.** 🚀
+**이 많은 개발자입니다.** 🚀
 
 <br>
 
