@@ -1,17 +1,15 @@
-<div align=center>
-  
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=9B59FF&desc=ai%20developer%20and%20more&descAlignY=70&descAlign=50&theme=radical)
-
-<br>
-
-</div>
 
 <div align="center">
 
-<!-- 헤더 이미지나 타이핑 효과 -->
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=9B59FF)
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3776AB&size=30&width=600&height=50&lines=Hi+I'm+Seungjoo;Welcome+to+my+github;)](https://git.io/typing-svg)
+
+<br>
 
 </div>
 
