@@ -12,6 +12,32 @@
 
 </div>
 
+<h3 align="center"><b>🚀 Featured Projects 🚀</b></h3>
+
+<p align="center">
+  <b>📌 <a href="https://github.com/seungjoo555/ai_project01/tree/main/%EB%B3%B4%EC%95%88_%EB%A1%9C%EA%B7%B8_%EC%9C%84%ED%97%98%EB%8F%84_%EB%B6%84%EB%A5%98">보안 로그 위험도 분류</a></b><br>
+  보안 로그 데이터를 전처리하고 머신러닝 모델을 학습해 위험도를 분류하는 프로젝트.<br>
+  로그 마스킹, TF-IDF 기반 특성 추출, 모델 앙상블 및 성능 평가 수행
+</p>
+
+<p align="center">
+  <b>📌 <a href="https://github.com/seungjoo555/text_data_mining26">텍스트 데이터 마이닝</a></b><br>
+  텍스트 전처리와 자연어 분석을 통해 데이터의 특징과 의미를 탐색하는 프로젝트 모음.<br>
+  영화 리뷰 감성 분석, Word2Vec·FastText, RNN 및 뉴스 데이터 분석 실습
+</p>
+
+<p align="center">
+  <b>📌 <a href="https://github.com/seungjoo555/final_team2">학습·스터디 플랫폼 웹 개발</a></b><br>
+  Java와 Spring MVC 기반의 팀 프로젝트로 강의 서비스를 개발.<br>
+  MyBatis·MySQL을 활용한 데이터 처리 및 외부 결제 API 연동
+</p>
+
+<p align="center">
+  <b>📌 <a href="https://github.com/seungjoo555/bank_system">은행 업무 시스템</a></b><br>
+  Python과 Oracle Database를 활용한 은행 업무 시스템 구현.<br>
+  출금·입금·이체 처리와 트랜잭션을 활용한 거래 내역 및 데이터 일관성 관리
+</p>
+
 <div align="center">
 
 <h3 align="center"><b>💻 Languages 💻</b></h3>
