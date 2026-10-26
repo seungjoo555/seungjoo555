@@ -2,7 +2,7 @@
 
   <br>
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&desc=developer%20and%20more&descAlignY=70&descAlign=50&theme=radical)
+  ![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&desc=developer%20and%20more&descAlignY=70&descAlign=50&theme=TokyoNight)
   
   <br>
   
