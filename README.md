@@ -34,7 +34,9 @@
     출금·입금·이체 처리와 트랜잭션을 활용한 거래 내역 및 데이터 일관성 관리
   </p>
 </div>
-  
+
+<br>
+
 <div align="center">
   
   <h3 align="center"><b>💻 Languages 💻</b></h3>
@@ -91,6 +93,8 @@
 
 </div>
 
+<br><br>
+
 <div align="center">
   <h3><b> 🎄 Github Stats 🎄 </b></h3>
     
@@ -99,3 +103,4 @@
   ![Top Languages](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=seungjoo555&layout=compact&theme=algolia)
 
 </div>
+<br>
