@@ -70,9 +70,7 @@
 </div>
 
 <div align="center">
-  
   <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  [![seungjoo555's GitHub stats](https://github-readme-stats-five-kappa-63.vercel.app/api?username=seungjoo555)](https://github.com)
-  ![Top Langs](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=seungjoo555&layout=compact&theme=algolia)
-  
+  ![GitHub Stats](https://github-readme-stats-five-kappa-63.vercel.app/api?username=seungjoo555&show_icons=true&theme=algolia)
+  ![Top Languages](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=seungjoo555&layout=compact&theme=algolia)
 </div>
