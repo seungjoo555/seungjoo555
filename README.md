@@ -1,9 +1,14 @@
 <div align="center">
-<br>
-![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&desc=developer%20and%20more&descAlignY=70&descAlign=50&theme=radical)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3776AB&size=30&width=600&height=50&lines=Hi+I'm+Seungjoo;Welcome+to+my+github;)](https://git.io/typing-svg)
-<br>
+
+  <br>
+  
+  ![header](https://capsule-render.vercel.app/api?type=rect&text=Seungjoo%20Lee&fontAlign=50&fontAlignY=35&fontSize=40&desc=developer%20and%20more&descAlignY=70&descAlign=50&theme=radical)
+  
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3776AB&size=30&width=600&height=50&lines=Hi+I'm+Seungjoo;Welcome+to+my+github;)](https://git.io/typing-svg)
+  
+  <br>
 
 </div>
 
@@ -65,6 +70,9 @@
 
 <div align="center">
 <h3><b> 🎄 Github Stats 🎄 </b></h3>
+  
 ![GitHub Stats](https://github-readme-stats-five-kappa-63.vercel.app/api?username=seungjoo555&show_icons=true&theme=algolia)
+
 ![Top Languages](https://github-readme-stats-five-kappa-63.vercel.app/api/top-langs/?username=seungjoo555&layout=compact&theme=algolia)
+
 </div>
